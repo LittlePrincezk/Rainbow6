@@ -1,0 +1,8 @@
+title: Rainbow6
+description: a small house~
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
